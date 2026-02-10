@@ -1,0 +1,41 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10589",
+      "dwmc": "海南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hainanu.edu.cn/"
+    },
+    {
+      "dwdm": "11100",
+      "dwmc": "海南热带海洋学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hntou.edu.cn/"
+    },
+    {
+      "dwdm": "11658",
+      "dwmc": "海南师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hainnu.edu.cn/"
+    },
+    {
+      "dwdm": "11810",
+      "dwmc": "海南医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://yzchs02.github.io/yzct/yz.chsi.com.cn.grade11810.html"
+    },
+    {
+      "dwdm": "13892",
+      "dwmc": "三亚学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sanyau.edu.cn/"
+    }
+  ]
+}
+

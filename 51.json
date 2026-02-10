@@ -1,0 +1,272 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10610",
+      "dwmc": "四川大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scu.edu.cn/"
+    },
+    {
+      "dwdm": "10613",
+      "dwmc": "西南交通大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swjtu.edu.cn/"
+    },
+    {
+      "dwdm": "10615",
+      "dwmc": "西南石油大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swpu.edu.cn/"
+    },
+    {
+      "dwdm": "10616",
+      "dwmc": "成都理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cdut.edu.cn/"
+    },
+    {
+      "dwdm": "10619",
+      "dwmc": "西南科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swust.edu.cn/"
+    },
+    {
+      "dwdm": "10623",
+      "dwmc": "西华大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xhu.edu.cn/"
+    },
+    {
+      "dwdm": "10624",
+      "dwmc": "中国民用航空飞行学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cafuc.edu.cn/"
+    },
+    {
+      "dwdm": "10632",
+      "dwmc": "西南医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swmu.edu.cn/"
+    },
+    {
+      "dwdm": "10633",
+      "dwmc": "成都中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cdutcm.edu.cn/"
+    },
+    {
+      "dwdm": "10638",
+      "dwmc": "西华师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cwnu.edu.cn/"
+    },
+    {
+      "dwdm": "10639",
+      "dwmc": "绵阳师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.mnu.cn/"
+    },
+    {
+      "dwdm": "10649",
+      "dwmc": "乐山师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lsnu.edu.cn/"
+    },
+    {
+      "dwdm": "10651",
+      "dwmc": "西南财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swufe.edu.cn/"
+    },
+    {
+      "dwdm": "10656",
+      "dwmc": "西南民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swun.edu.cn/"
+    },
+    {
+      "dwdm": "11079",
+      "dwmc": "成都大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cdu.edu.cn/"
+    },
+    {
+      "dwdm": "13705",
+      "dwmc": "成都医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cmc.edu.cn/"
+    },
+    {
+      "dwdm": "82802",
+      "dwmc": "中国核动力研究设计院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cnpirm.com.cn/"
+    },
+    {
+      "dwdm": "83105",
+      "dwmc": "中国兵器科学研究院(西南技术物理研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordtec.cn/"
+    },
+    {
+      "dwdm": "82910",
+      "dwmc": "中国航空研究院(624所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "89101",
+      "dwmc": "四川省社会科学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sass.cn/"
+    },
+    {
+      "dwdm": "89651",
+      "dwmc": "中共四川省委党校",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scswdx.gov.cn/"
+    },
+    {
+      "dwdm": "10614",
+      "dwmc": "电子科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.uestc.edu.cn/"
+    },
+    {
+      "dwdm": "10621",
+      "dwmc": "成都信息工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cuit.edu.cn/"
+    },
+    {
+      "dwdm": "10626",
+      "dwmc": "四川农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sicau.edu.cn/"
+    },
+    {
+      "dwdm": "10634",
+      "dwmc": "川北医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nsmc.edu.cn/"
+    },
+    {
+      "dwdm": "10640",
+      "dwmc": "内江师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.njtc.edu.cn/"
+    },
+    {
+      "dwdm": "10653",
+      "dwmc": "成都体育学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cdsu.edu.cn/"
+    },
+    {
+      "dwdm": "11360",
+      "dwmc": "攀枝花学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.pzhu.edu.cn/"
+    },
+    {
+      "dwdm": "82809",
+      "dwmc": "核工业西南物理研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swip.ac.cn/"
+    },
+    {
+      "dwdm": "83114",
+      "dwmc": "中国兵器科学研究院(西南自动化研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordtec.cn/"
+    },
+    {
+      "dwdm": "10622",
+      "dwmc": "四川轻化工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.suse.edu.cn/"
+    },
+    {
+      "dwdm": "10628",
+      "dwmc": "西昌学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xcc.edu.cn/"
+    },
+    {
+      "dwdm": "10636",
+      "dwmc": "四川师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sicnu.edu.cn/"
+    },
+    {
+      "dwdm": "10641",
+      "dwmc": "宜宾学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.yibinu.edu.cn/"
+    },
+    {
+      "dwdm": "10654",
+      "dwmc": "四川音乐学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sccm.cn/"
+    },
+    {
+      "dwdm": "12212",
+      "dwmc": "四川警察学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scpolicec.edu.cn/"
+    },
+    {
+      "dwdm": "82906",
+      "dwmc": "中国航空研究院(611所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "84004",
+      "dwmc": "电信科学技术研究院(第五研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.catt.com.cn/"
+    }
+  ]
+}
+

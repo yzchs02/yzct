@@ -1,0 +1,363 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10486",
+      "dwmc": "武汉大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.whu.edu.cn/"
+    },
+    {
+      "dwdm": "10487",
+      "dwmc": "华中科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hust.edu.cn/"
+    },
+    {
+      "dwdm": "10488",
+      "dwmc": "武汉科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wust.edu.cn/"
+    },
+    {
+      "dwdm": "10489",
+      "dwmc": "长江大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.yangtzeu.edu.cn/"
+    },
+    {
+      "dwdm": "10490",
+      "dwmc": "武汉工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wit.edu.cn/"
+    },
+    {
+      "dwdm": "10491",
+      "dwmc": "中国地质大学(武汉)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cug.edu.cn/"
+    },
+    {
+      "dwdm": "10495",
+      "dwmc": "武汉纺织大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wtu.edu.cn/"
+    },
+    {
+      "dwdm": "10496",
+      "dwmc": "武汉轻工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.whpu.edu.cn/"
+    },
+    {
+      "dwdm": "10497",
+      "dwmc": "武汉理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.whut.edu.cn/"
+    },
+    {
+      "dwdm": "10500",
+      "dwmc": "湖北工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbut.edu.cn/"
+    },
+    {
+      "dwdm": "10504",
+      "dwmc": "华中农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hzau.edu.cn/"
+    },
+    {
+      "dwdm": "10507",
+      "dwmc": "湖北中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbtcm.edu.cn/"
+    },
+    {
+      "dwdm": "10511",
+      "dwmc": "华中师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ccnu.edu.cn/"
+    },
+    {
+      "dwdm": "10512",
+      "dwmc": "湖北大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hubu.edu.cn/"
+    },
+    {
+      "dwdm": "10513",
+      "dwmc": "湖北师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbnu.edu.cn/"
+    },
+    {
+      "dwdm": "10514",
+      "dwmc": "黄冈师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hgnu.edu.cn/"
+    },
+    {
+      "dwdm": "10517",
+      "dwmc": "湖北民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbmzu.edu.cn/"
+    },
+    {
+      "dwdm": "10519",
+      "dwmc": "湖北文理学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbuas.edu.cn/"
+    },
+    {
+      "dwdm": "10520",
+      "dwmc": "中南财经政法大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zuel.edu.cn/"
+    },
+    {
+      "dwdm": "10522",
+      "dwmc": "武汉体育学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.whsu.edu.cn/"
+    },
+    {
+      "dwdm": "10523",
+      "dwmc": "湖北美术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hifa.edu.cn/"
+    },
+    {
+      "dwdm": "10524",
+      "dwmc": "中南民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scuec.edu.cn/"
+    },
+    {
+      "dwdm": "10525",
+      "dwmc": "湖北汽车工业学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.huat.edu.cn/"
+    },
+    {
+      "dwdm": "10528",
+      "dwmc": "湖北工程学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbeu.edu.cn/"
+    },
+    {
+      "dwdm": "10920",
+      "dwmc": "湖北理工学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbut.edu.cn/"
+    },
+    {
+      "dwdm": "10927",
+      "dwmc": "湖北科技学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbust.edu.cn/"
+    },
+    {
+      "dwdm": "10929",
+      "dwmc": "湖北医药学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbmu.edu.cn/"
+    },
+    {
+      "dwdm": "11072",
+      "dwmc": "江汉大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jhun.edu.cn/"
+    },
+    {
+      "dwdm": "11075",
+      "dwmc": "三峡大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ctgu.edu.cn/"
+    },
+    {
+      "dwdm": "11524",
+      "dwmc": "武汉音乐学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.whcm.edu.cn/"
+    },
+    {
+      "dwdm": "11600",
+      "dwmc": "湖北经济学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbue.edu.cn/"
+    },
+    {
+      "dwdm": "82305",
+      "dwmc": "长江科学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.crsri.cn/"
+    },
+    {
+      "dwdm": "82609",
+      "dwmc": "中钢集团武汉安全环保研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.safetyenv.com.cn/"
+    },
+    {
+      "dwdm": "82709",
+      "dwmc": "机械科学研究总院(武汉材料保护研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wrpm.com.cn/"
+    },
+    {
+      "dwdm": "82961",
+      "dwmc": "中国航空研究院(610所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "83258",
+      "dwmc": "航天动力技术研究院(42所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sptri.com.cn/"
+    },
+    {
+      "dwdm": "84011",
+      "dwmc": "武汉邮电科学研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fiberhome.com.cn/"
+    },
+    {
+      "dwdm": "84506",
+      "dwmc": "武汉生物制品研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sinobiological.com.cn/"
+    },
+    {
+      "dwdm": "85404",
+      "dwmc": "中国地震局地震研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ies.ac.cn/"
+    },
+    {
+      "dwdm": "86202",
+      "dwmc": "中国舰船研究院(武汉数字工程研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "86203",
+      "dwmc": "中国舰船研究院(中国舰船研究设计中心)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "86215",
+      "dwmc": "中国舰船研究院(武汉船用电力推进装置研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "86216",
+      "dwmc": "中国舰船研究院(华中光电技术研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "86217",
+      "dwmc": "中国舰船研究院(武汉船舶通信研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "86218",
+      "dwmc": "中国舰船研究院(武汉第二船舶设计研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "88701",
+      "dwmc": "湖北省社会科学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbssy.cn/"
+    },
+    {
+      "dwdm": "89642",
+      "dwmc": "中共湖北省委党校",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hbdx.gov.cn/"
+    },
+    {
+      "dwdm": "92013",
+      "dwmc": "海军工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nue.edu.cn/"
+    },
+    {
+      "dwdm": "92023",
+      "dwmc": "空军预警学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.kjyjxy.edu.cn/"
+    },
+    {
+      "dwdm": "92030",
+      "dwmc": "火箭军指挥学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hjjzyxy.edu.cn/"
+    },
+    {
+      "dwdm": "92035",
+      "dwmc": "信息支援部队工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xzybdgc.edu.cn/"
+    }
+  ]
+}
+

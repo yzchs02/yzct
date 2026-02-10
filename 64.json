@@ -1,0 +1,41 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10749",
+      "dwmc": "宁夏大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nxu.edu.cn/"
+    },
+    {
+      "dwdm": "10752",
+      "dwmc": "宁夏医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nxmu.edu.cn/"
+    },
+    {
+      "dwdm": "10753",
+      "dwmc": "宁夏师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nxnu.edu.cn/"
+    },
+    {
+      "dwdm": "11407",
+      "dwmc": "北方民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.bmu.edu.cn/"
+    },
+    {
+      "dwdm": "12544",
+      "dwmc": "宁夏理工学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nxist.edu.cn/"
+    }
+  ]
+}
+

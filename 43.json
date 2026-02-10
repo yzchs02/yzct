@@ -1,0 +1,209 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10530",
+      "dwmc": "湘潭大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xtu.edu.cn/"
+    },
+    {
+      "dwdm": "10531",
+      "dwmc": "吉首大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jsu.edu.cn/"
+    },
+    {
+      "dwdm": "10532",
+      "dwmc": "湖南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnu.edu.cn/"
+    },
+    {
+      "dwdm": "10533",
+      "dwmc": "中南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.csu.edu.cn/"
+    },
+    {
+      "dwdm": "10534",
+      "dwmc": "湖南科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnust.edu.cn/"
+    },
+    {
+      "dwdm": "10536",
+      "dwmc": "长沙理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.csust.edu.cn/"
+    },
+    {
+      "dwdm": "10537",
+      "dwmc": "湖南农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hunau.edu.cn/"
+    },
+    {
+      "dwdm": "10538",
+      "dwmc": "中南林业科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.csuft.edu.cn/"
+    },
+    {
+      "dwdm": "10541",
+      "dwmc": "湖南中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnucm.edu.cn/"
+    },
+    {
+      "dwdm": "10542",
+      "dwmc": "湖南师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hunnu.edu.cn/"
+    },
+    {
+      "dwdm": "10543",
+      "dwmc": "湖南理工学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnist.cn/"
+    },
+    {
+      "dwdm": "10546",
+      "dwmc": "衡阳师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hynu.edu.cn/"
+    },
+    {
+      "dwdm": "10547",
+      "dwmc": "邵阳学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnsyu.edu.cn/"
+    },
+    {
+      "dwdm": "10549",
+      "dwmc": "湖南文理学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.huas.edu.cn/"
+    },
+    {
+      "dwdm": "10551",
+      "dwmc": "湖南科技学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.huse.edu.cn/"
+    },
+    {
+      "dwdm": "10553",
+      "dwmc": "湖南人文科技学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnrst.edu.cn/"
+    },
+    {
+      "dwdm": "10554",
+      "dwmc": "湖南工商大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hutb.edu.cn/"
+    },
+    {
+      "dwdm": "10555",
+      "dwmc": "南华大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.usc.edu.cn/"
+    },
+    {
+      "dwdm": "11077",
+      "dwmc": "长沙学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ccsu.cn/"
+    },
+    {
+      "dwdm": "11342",
+      "dwmc": "湖南工程学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnie.edu.cn/"
+    },
+    {
+      "dwdm": "11527",
+      "dwmc": "湖南城市学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hncu.cn/"
+    },
+    {
+      "dwdm": "11535",
+      "dwmc": "湖南工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hut.edu.cn/"
+    },
+    {
+      "dwdm": "12034",
+      "dwmc": "湖南第一师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnfnu.edu.cn/"
+    },
+    {
+      "dwdm": "82603",
+      "dwmc": "长沙矿冶研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.crimm.com.cn/"
+    },
+    {
+      "dwdm": "82925",
+      "dwmc": "中国航空研究院(608所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.aviChina608.com/"
+    },
+    {
+      "dwdm": "86404",
+      "dwmc": "长沙矿山研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cimr.com.cn/"
+    },
+    {
+      "dwdm": "88801",
+      "dwmc": "湖南省中医药研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnzyy.cn/"
+    },
+    {
+      "dwdm": "89643",
+      "dwmc": "中共湖南省委党校",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hndx.gov.cn/"
+    },
+    {
+      "dwdm": "92002",
+      "dwmc": "国防科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nudt.edu.cn/"
+    }
+  ]
+}
+

@@ -1,0 +1,146 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10403",
+      "dwmc": "南昌大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ncu.edu.cn/"
+    },
+    {
+      "dwdm": "10404",
+      "dwmc": "华东交通大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ecjtu.edu.cn/"
+    },
+    {
+      "dwdm": "10405",
+      "dwmc": "东华理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ecut.edu.cn/"
+    },
+    {
+      "dwdm": "10406",
+      "dwmc": "南昌航空大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nchu.edu.cn/"
+    },
+    {
+      "dwdm": "10407",
+      "dwmc": "江西理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jxust.edu.cn/"
+    },
+    {
+      "dwdm": "10408",
+      "dwmc": "景德镇陶瓷大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jci.edu.cn/"
+    },
+    {
+      "dwdm": "10410",
+      "dwmc": "江西农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jxau.edu.cn/"
+    },
+    {
+      "dwdm": "10412",
+      "dwmc": "江西中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jxutcm.edu.cn/"
+    },
+    {
+      "dwdm": "10413",
+      "dwmc": "赣南医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gmu.cn/"
+    },
+    {
+      "dwdm": "10414",
+      "dwmc": "江西师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jxnu.edu.cn/"
+    },
+    {
+      "dwdm": "10416",
+      "dwmc": "上饶师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sru.edu.cn/"
+    },
+    {
+      "dwdm": "10417",
+      "dwmc": "宜春学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ycu.jx.cn/"
+    },
+    {
+      "dwdm": "10418",
+      "dwmc": "赣南师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gnnu.edu.cn/"
+    },
+    {
+      "dwdm": "10419",
+      "dwmc": "井冈山大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jgsu.edu.cn/"
+    },
+    {
+      "dwdm": "11318",
+      "dwmc": "江西科技师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jxstnu.edu.cn/"
+    },
+    {
+      "dwdm": "11319",
+      "dwmc": "江西水利电力大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jxsd.edu.cn/"
+    },
+    {
+      "dwdm": "11843",
+      "dwmc": "九江学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jju.edu.cn/"
+    },
+    {
+      "dwdm": "10421",
+      "dwmc": "江西财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jxufe.edu.cn/"
+    },
+    {
+      "dwdm": "82938",
+      "dwmc": "中国航空研究院(602所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.avic.com.cn/"
+    },
+    {
+      "dwdm": "92006",
+      "dwmc": "陆军步兵学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ljbbxy.edu.cn/"
+    }
+  ]
+}
+

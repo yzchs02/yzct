@@ -1,0 +1,181 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10357",
+      "dwmc": "安徽大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahu.edu.cn/"
+    },
+    {
+      "dwdm": "10358",
+      "dwmc": "中国科学技术大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ustc.edu.cn/"
+    },
+    {
+      "dwdm": "10359",
+      "dwmc": "合肥工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hfut.edu.cn/"
+    },
+    {
+      "dwdm": "10360",
+      "dwmc": "安徽工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahut.edu.cn/"
+    },
+    {
+      "dwdm": "10361",
+      "dwmc": "安徽理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.aust.edu.cn/"
+    },
+    {
+      "dwdm": "10363",
+      "dwmc": "安徽工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahpu.edu.cn/"
+    },
+    {
+      "dwdm": "10364",
+      "dwmc": "安徽农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahau.edu.cn/"
+    },
+    {
+      "dwdm": "10366",
+      "dwmc": "安徽医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahmu.edu.cn/"
+    },
+    {
+      "dwdm": "10367",
+      "dwmc": "蚌埠医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.bbmu.edu.cn/"
+    },
+    {
+      "dwdm": "10368",
+      "dwmc": "皖南医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wnmc.edu.cn/"
+    },
+    {
+      "dwdm": "10369",
+      "dwmc": "安徽中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahtcm.edu.cn/"
+    },
+    {
+      "dwdm": "10370",
+      "dwmc": "安徽师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahnu.edu.cn/"
+    },
+    {
+      "dwdm": "10371",
+      "dwmc": "阜阳师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fynu.edu.cn/"
+    },
+    {
+      "dwdm": "10372",
+      "dwmc": "安庆师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.aqnu.edu.cn/"
+    },
+    {
+      "dwdm": "10373",
+      "dwmc": "淮北师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.chnu.edu.cn/"
+    },
+    {
+      "dwdm": "10376",
+      "dwmc": "皖西学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wxc.edu.cn/"
+    },
+    {
+      "dwdm": "10377",
+      "dwmc": "滁州学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.chzu.edu.cn/"
+    },
+    {
+      "dwdm": "10378",
+      "dwmc": "安徽财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.aufe.edu.cn/"
+    },
+    {
+      "dwdm": "10379",
+      "dwmc": "宿州学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahszu.edu.cn/"
+    },
+    {
+      "dwdm": "10878",
+      "dwmc": "安徽建筑大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahjzu.edu.cn/"
+    },
+    {
+      "dwdm": "10879",
+      "dwmc": "安徽科技学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ahstu.edu.cn/"
+    },
+    {
+      "dwdm": "11109",
+      "dwmc": "合肥大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hfuu.edu.cn/"
+    },
+    {
+      "dwdm": "14098",
+      "dwmc": "合肥师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hfnu.edu.cn/"
+    },
+    {
+      "dwdm": "82604",
+      "dwmc": "马鞍山矿山研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imamr.com.cn/"
+    },
+    {
+      "dwdm": "92005",
+      "dwmc": "陆军兵种大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.armyedu.cn/"
+    }
+  ]
+}
+

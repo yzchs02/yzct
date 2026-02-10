@@ -1,0 +1,27 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10743",
+      "dwmc": "青海大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://yzchs02.github.io/yzct/yz.chsi.com.cn.grade10743.html"
+    },
+    {
+      "dwdm": "10746",
+      "dwmc": "青海师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qhnu.edu.cn/"
+    },
+    {
+      "dwdm": "10748",
+      "dwmc": "青海民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qhmu.edu.cn/"
+    }
+  ]
+}
+

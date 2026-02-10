@@ -1,0 +1,405 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10697",
+      "dwmc": "西北大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nwu.edu.cn/"
+    },
+    {
+      "dwdm": "10698",
+      "dwmc": "西安交通大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xjtu.edu.cn/"
+    },
+    {
+      "dwdm": "10699",
+      "dwmc": "西北工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nwpu.edu.cn/"
+    },
+    {
+      "dwdm": "10700",
+      "dwmc": "西安理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xaut.edu.cn/"
+    },
+    {
+      "dwdm": "10701",
+      "dwmc": "西安电子科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xidian.edu.cn/"
+    },
+    {
+      "dwdm": "10702",
+      "dwmc": "西安工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xatu.edu.cn/"
+    },
+    {
+      "dwdm": "10703",
+      "dwmc": "西安建筑科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xauat.edu.cn/"
+    },
+    {
+      "dwdm": "10704",
+      "dwmc": "西安科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xust.edu.cn/"
+    },
+    {
+      "dwdm": "10705",
+      "dwmc": "西安石油大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xsyu.edu.cn/"
+    },
+    {
+      "dwdm": "10708",
+      "dwmc": "陕西科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sust.edu.cn/"
+    },
+    {
+      "dwdm": "10709",
+      "dwmc": "西安工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xpu.edu.cn/"
+    },
+    {
+      "dwdm": "10710",
+      "dwmc": "长安大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.chd.edu.cn/"
+    },
+    {
+      "dwdm": "10712",
+      "dwmc": "西北农林科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nwsuaf.edu.cn/"
+    },
+    {
+      "dwdm": "10716",
+      "dwmc": "陕西中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sntcm.edu.cn/"
+    },
+    {
+      "dwdm": "10718",
+      "dwmc": "陕西师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.snnu.edu.cn/"
+    },
+    {
+      "dwdm": "10719",
+      "dwmc": "延安大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.yau.edu.cn/"
+    },
+    {
+      "dwdm": "10720",
+      "dwmc": "陕西理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.snut.edu.cn/"
+    },
+    {
+      "dwdm": "10721",
+      "dwmc": "宝鸡文理学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.bjwlxy.edu.cn/"
+    },
+    {
+      "dwdm": "10722",
+      "dwmc": "咸阳师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xync.edu.cn/"
+    },
+    {
+      "dwdm": "10724",
+      "dwmc": "西安外国语大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xisu.edu.cn/"
+    },
+    {
+      "dwdm": "10726",
+      "dwmc": "西北政法大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nwupl.edu.cn/"
+    },
+    {
+      "dwdm": "10727",
+      "dwmc": "西安体育学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xaipe.edu.cn/"
+    },
+    {
+      "dwdm": "10728",
+      "dwmc": "西安音乐学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xacom.edu.cn/"
+    },
+    {
+      "dwdm": "10729",
+      "dwmc": "西安美术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xafa.edu.cn/"
+    },
+    {
+      "dwdm": "10805",
+      "dwmc": "西安文理学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xawl.edu.cn/"
+    },
+    {
+      "dwdm": "11395",
+      "dwmc": "榆林学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ylu.edu.cn/"
+    },
+    {
+      "dwdm": "11396",
+      "dwmc": "商洛学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.slxy.edu.cn/"
+    },
+    {
+      "dwdm": "11397",
+      "dwmc": "安康学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.aku.edu.cn/"
+    },
+    {
+      "dwdm": "11560",
+      "dwmc": "西安财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xaufe.edu.cn/"
+    },
+    {
+      "dwdm": "11664",
+      "dwmc": "西安邮电大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xupt.edu.cn/"
+    },
+    {
+      "dwdm": "11840",
+      "dwmc": "西安医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xiyi.edu.cn/"
+    },
+    {
+      "dwdm": "12715",
+      "dwmc": "西京学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xijing.edu.cn/"
+    },
+    {
+      "dwdm": "82304",
+      "dwmc": "西安热工研究院有限公司",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tpri.com.cn/"
+    },
+    {
+      "dwdm": "82904",
+      "dwmc": "中国航空研究院(603所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "82909",
+      "dwmc": "中国航空研究院(623所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "82911",
+      "dwmc": "中国航空研究院(630所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "82912",
+      "dwmc": "中国航空研究院(631所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "82936",
+      "dwmc": "中国航空研究院(618所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "83101",
+      "dwmc": "中国兵器科学研究院(西安近代化学研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordsci.com.cn/"
+    },
+    {
+      "dwdm": "83103",
+      "dwmc": "中国兵器科学研究院(西安应用光学研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordsci.com.cn/"
+    },
+    {
+      "dwdm": "83109",
+      "dwmc": "中国兵器科学研究院(西安机电信息技术研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordsci.com.cn/"
+    },
+    {
+      "dwdm": "83110",
+      "dwmc": "中国兵器科学研究院(陕西应用物理化学研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordsci.com.cn/"
+    },
+    {
+      "dwdm": "83111",
+      "dwmc": "中国兵器科学研究院(西北机电工程研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordsci.com.cn/"
+    },
+    {
+      "dwdm": "83112",
+      "dwmc": "中国兵器科学研究院(西安现代控制技术研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordsci.com.cn/"
+    },
+    {
+      "dwdm": "83113",
+      "dwmc": "中国兵器科学研究院(西安电子工程研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordsci.com.cn/"
+    },
+    {
+      "dwdm": "83233",
+      "dwmc": "中国航天科工集团第二研究院(16所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.casic.com.cn/"
+    },
+    {
+      "dwdm": "83256",
+      "dwmc": "航天动力技术研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.aaspt.com.cn/"
+    },
+    {
+      "dwdm": "83269",
+      "dwmc": "中国空间技术研究院(西安分院)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cast.cn/"
+    },
+    {
+      "dwdm": "83276",
+      "dwmc": "西安微电子技术研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xmi.com.cn/"
+    },
+    {
+      "dwdm": "84003",
+      "dwmc": "电信科学技术第四研究所(西安)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.catt.com.cn/"
+    },
+    {
+      "dwdm": "86212",
+      "dwmc": "中国舰船研究院(西安精密机械研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "89661",
+      "dwmc": "中共陕西省委党校",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxdx.gov.cn/"
+    },
+    {
+      "dwdm": "91022",
+      "dwmc": "空军工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.afeu.edu.cn/"
+    },
+    {
+      "dwdm": "92027",
+      "dwmc": "空军军医大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fmmu.edu.cn/"
+    },
+    {
+      "dwdm": "92031",
+      "dwmc": "火箭军工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hjjun.edu.cn/"
+    },
+    {
+      "dwdm": "92038",
+      "dwmc": "武警工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wjgcd.edu.cn/"
+    },
+    {
+      "dwdm": "92102",
+      "dwmc": "西北核技术研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nint.ac.cn/"
+    }
+  ]
+}
+

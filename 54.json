@@ -1,0 +1,34 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10693",
+      "dwmc": "西藏农牧大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xzum.edu.cn/"
+    },
+    {
+      "dwdm": "10694",
+      "dwmc": "西藏大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.utibet.edu.cn/"
+    },
+    {
+      "dwdm": "10695",
+      "dwmc": "西藏民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xzmu.edu.cn/"
+    },
+    {
+      "dwdm": "10696",
+      "dwmc": "西藏藏医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ttmc.edu.cn/"
+    }
+  ]
+}
+

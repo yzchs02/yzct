@@ -1,0 +1,361 @@
+﻿       {
+  "rad": "",
+  "dms": [
+         {
+            "dwdm": "10246",
+            "dwmc": "复旦大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.fudan.edu.cn/"
+        },
+        {
+            "dwdm": "10247",
+            "dwmc": "同济大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.tongji.edu.cn/"
+        },
+        {
+            "dwdm": "10248",
+            "dwmc": "上海交通大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sjtu.edu.cn/"
+        },
+        {
+            "dwdm": "10251",
+            "dwmc": "华东理工大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.ecust.edu.cn/"
+        },
+       
+        {
+            "dwdm": "10252",
+            "dwmc": "上海理工大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.usst.edu.cn/"
+        },
+        {
+            "dwdm": "10254",
+            "dwmc": "上海海事大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://yzchs02.github.io/yzct/yz.chsi.com.cn.html"
+        },
+        {
+            "dwdm": "10255",
+            "dwmc": "东华大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.dhu.edu.cn/"
+        },
+        {
+            "dwdm": "10256",
+            "dwmc": "上海电力大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shiep.edu.cn/"
+        },
+       
+        {
+            "dwdm": "10259",
+            "dwmc": "上海应用技术大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sit.edu.cn/"
+        },
+        {
+            "dwdm": "10264",
+            "dwmc": "上海海洋大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://yzchs02.github.io/yzct/yz.chsi.com.cn.grade10254.html"
+        },
+        {
+            "dwdm": "10268",
+            "dwmc": "上海中医药大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shutcm.edu.cn/"
+        },
+        {
+            "dwdm": "10269",
+            "dwmc": "华东师范大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.ecnu.edu.cn/"
+        },
+       
+        {
+            "dwdm": "10270",
+            "dwmc": "上海师范大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shnu.edu.cn/"
+        },
+        {
+            "dwdm": "10271",
+            "dwmc": "上海外国语大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shisu.edu.cn/"
+        },
+        {
+            "dwdm": "10272",
+            "dwmc": "上海财经大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sufe.edu.cn/"
+        },
+        {
+            "dwdm": "10273",
+            "dwmc": "上海对外经贸大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.suibe.edu.cn/"
+        },
+       
+        {
+            "dwdm": "10274",
+            "dwmc": "上海海关学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shcc.edu.cn/"
+        },
+        {
+            "dwdm": "10276",
+            "dwmc": "华东政法大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.ecupl.edu.cn/"
+        },
+        {
+            "dwdm": "10277",
+            "dwmc": "上海体育大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sus.edu.cn/"
+        },
+        {
+            "dwdm": "10278",
+            "dwmc": "上海音乐学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shcmusic.edu.cn/"
+        },
+       
+        {
+            "dwdm": "10279",
+            "dwmc": "上海戏剧学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.china-drama.edu.cn/"
+        },
+        {
+            "dwdm": "10280",
+            "dwmc": "上海大学",
+            "cxfs": "sch",
+            "kg2": "1", 
+            "customLink": "https://www.china-drama.edu.cn/"
+        },
+        {
+            "dwdm": "10856",
+            "dwmc": "上海工程技术大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sues.edu.cn/"
+        },
+        {
+            "dwdm": "11047",
+            "dwmc": "上海立信会计金融学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.lixin.edu.cn/"
+        },
+       
+        {
+            "dwdm": "11458",
+            "dwmc": "上海电机学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sdju.edu.cn/"
+        },
+        {
+            "dwdm": "11833",
+            "dwmc": "上海杉达学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sandau.edu.cn/"
+        },
+        {
+            "dwdm": "11835",
+            "dwmc": "上海政法学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shupl.edu.cn/"
+        },
+        {
+            "dwdm": "12044",
+            "dwmc": "上海第二工业大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sspu.edu.cn/"
+        },
+        
+        {
+            "dwdm": "12050",
+            "dwmc": "上海商学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sbs.edu.cn/"
+        },
+        {
+            "dwdm": "14423",
+            "dwmc": "上海科技大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shanghaitech.edu.cn/"
+        },
+        {
+            "dwdm": "80402",
+            "dwmc": "上海国家会计学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.snai.edu.cn/"
+        },
+        {
+            "dwdm": "82707",
+            "dwmc": "上海材料研究所",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.srim.com.cn/"
+        },
+      
+        {
+            "dwdm": "82717",
+            "dwmc": "上海发电设备成套设计研究院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.spri.com.cn/"
+        },
+        {
+            "dwdm": "82805",
+            "dwmc": "上海核工程研究设计院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.snerdi.com.cn/"
+        },
+        {
+            "dwdm": "82937",
+            "dwmc": "中国航空研究院(640所)",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.caiac.com.cn/"
+        },
+        {
+            "dwdm": "83285",
+            "dwmc": "上海航天技术研究院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sastri.com.cn/"
+        },
+       
+        {
+            "dwdm": "83502",
+            "dwmc": "上海化工研究院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.srici.com.cn/"
+        },
+        {
+            "dwdm": "83901",
+            "dwmc": "上海船舶运输科学研究所",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.simic.net.cn/"
+        },
+        {
+            "dwdm": "84002",
+            "dwmc": "电信科学技术第一研究所",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.catt.com.cn/"
+        },
+        {
+            "dwdm": "84505",
+            "dwmc": "上海生物制品研究所",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sinobiological.com.cn/"
+        },
+        
+        {
+            "dwdm": "85901",
+            "dwmc": "中国医药工业研究总院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sipi.com.cn/"
+        },
+        {
+            "dwdm": "86206",
+            "dwmc": "中国舰船研究院(中国船舶及海洋工程设计研究院)",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.maric.com.cn/"
+        },
+        {
+            "dwdm": "86207",
+            "dwmc": "中国舰船研究院(上海船舶设备研究所)",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.maric.com.cn/"
+        },
+        {
+            "dwdm": "86208",
+            "dwmc": "中国舰船研究院(上海船用柴油机研究所)",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.maric.com.cn/"
+        },
+       
+        {
+            "dwdm": "86219",
+            "dwmc": "中国舰船研究院(上海船舶电子设备研究所)",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.maric.com.cn/"
+        },
+        {
+            "dwdm": "87902",
+            "dwmc": "上海国际问题研究院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.siis.org.cn/"
+        },
+        {
+            "dwdm": "87903",
+            "dwmc": "上海社会科学院",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.sass.org.cn/"
+        },
+        {
+            "dwdm": "89631",
+            "dwmc": "中共上海市委党校",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.shdx.gov.cn/"
+        },
+        
+        {
+            "dwdm": "91020",
+            "dwmc": "海军军医大学",
+            "cxfs": "sch",
+            "kg2": "1",
+            "customLink": "https://www.smmu.edu.cn/"
+        }
+      ]
+}
+

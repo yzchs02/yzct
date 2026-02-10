@@ -1,0 +1,97 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10126",
+      "dwmc": "内蒙古大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imu.edu.cn/"
+    },
+    {
+      "dwdm": "10127",
+      "dwmc": "内蒙古科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imust.edu.cn/"
+    },
+    {
+      "dwdm": "10128",
+      "dwmc": "内蒙古工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imut.edu.cn/"
+    },
+    {
+      "dwdm": "10129",
+      "dwmc": "内蒙古农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imau.edu.cn/"
+    },
+    {
+      "dwdm": "10132",
+      "dwmc": "内蒙古医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.immu.edu.cn/"
+    },
+    {
+      "dwdm": "10135",
+      "dwmc": "内蒙古师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imnu.edu.cn/"
+    },
+    {
+      "dwdm": "10136",
+      "dwmc": "内蒙古民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imun.edu.cn/"
+    },
+    {
+      "dwdm": "10138",
+      "dwmc": "赤峰学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cfxy.cn/"
+    },
+    {
+      "dwdm": "10139",
+      "dwmc": "内蒙古财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imufe.edu.cn/"
+    },
+    {
+      "dwdm": "10819",
+      "dwmc": "呼伦贝尔学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hlbrc.cn/"
+    },
+    {
+      "dwdm": "11709",
+      "dwmc": "呼和浩特民族学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hhmt.edu.cn/"
+    },
+    {
+      "dwdm": "14531",
+      "dwmc": "内蒙古艺术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.imac.edu.cn/"
+    },
+    {
+      "dwdm": "83102",
+      "dwmc": "中国兵器科学研究院(内蒙金属材料研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ordnance.org.cn/"
+    }
+  ]
+}
+

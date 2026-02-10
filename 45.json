@@ -1,0 +1,125 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10593",
+      "dwmc": "广西大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxu.edu.cn/"
+    },
+    {
+      "dwdm": "10594",
+      "dwmc": "广西科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxust.edu.cn/"
+    },
+    {
+      "dwdm": "10595",
+      "dwmc": "桂林电子科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.guet.edu.cn/"
+    },
+    {
+      "dwdm": "10596",
+      "dwmc": "桂林理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.glut.edu.cn/"
+    },
+    {
+      "dwdm": "10598",
+      "dwmc": "广西医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxmu.edu.cn/"
+    },
+    {
+      "dwdm": "10599",
+      "dwmc": "右江民族医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ymcn.edu.cn/"
+    },
+    {
+      "dwdm": "10600",
+      "dwmc": "广西中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxtcmu.edu.cn/"
+    },
+    {
+      "dwdm": "10601",
+      "dwmc": "桂林医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.glmc.edu.cn/"
+    },
+    {
+      "dwdm": "10602",
+      "dwmc": "广西师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxnu.edu.cn/"
+    },
+    {
+      "dwdm": "10603",
+      "dwmc": "南宁师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nnnu.edu.cn/"
+    },
+    {
+      "dwdm": "10606",
+      "dwmc": "玉林师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ylnu.edu.cn/"
+    },
+    {
+      "dwdm": "10607",
+      "dwmc": "广西艺术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxai.edu.cn/"
+    },
+    {
+      "dwdm": "10608",
+      "dwmc": "广西民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxun.edu.cn/"
+    },
+    {
+      "dwdm": "11548",
+      "dwmc": "广西财经学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gxufe.edu.cn/"
+    },
+    {
+      "dwdm": "11607",
+      "dwmc": "北部湾大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.bbgu.edu.cn/"
+    },
+    {
+      "dwdm": "11838",
+      "dwmc": "贺州学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hzu.edu.cn/"
+    },
+    {
+      "dwdm": "92008",
+      "dwmc": "陆军特种作战学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ljtzzxy.edu.cn/"
+    }
+  ]
+}
+

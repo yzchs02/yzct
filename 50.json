@@ -1,0 +1,139 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10611",
+      "dwmc": "重庆大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqu.edu.cn/"
+    },
+    {
+      "dwdm": "10617",
+      "dwmc": "重庆邮电大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqupt.edu.cn/"
+    },
+    {
+      "dwdm": "10637",
+      "dwmc": "重庆师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqnu.edu.cn/"
+    },
+    {
+      "dwdm": "10642",
+      "dwmc": "重庆文理学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqwu.edu.cn/"
+    },
+    {
+      "dwdm": "10643",
+      "dwmc": "重庆三峡学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqctu.edu.cn/"
+    },
+    {
+      "dwdm": "10647",
+      "dwmc": "长江师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.yznu.edu.cn/"
+    },
+    {
+      "dwdm": "10650",
+      "dwmc": "四川外国语大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sisu.edu.cn/"
+    },
+    {
+      "dwdm": "10652",
+      "dwmc": "西南政法大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swupl.edu.cn/"
+    },
+    {
+      "dwdm": "10655",
+      "dwmc": "四川美术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scfai.edu.cn/"
+    },
+    {
+      "dwdm": "11551",
+      "dwmc": "重庆科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqust.edu.cn/"
+    },
+    {
+      "dwdm": "11660",
+      "dwmc": "重庆理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqut.edu.cn/"
+    },
+    {
+      "dwdm": "14830",
+      "dwmc": "重庆中医药学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqcmu.edu.cn/"
+    },
+    {
+      "dwdm": "89650",
+      "dwmc": "中共重庆市委党校",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqdxf.gov.cn/"
+    },
+    {
+      "dwdm": "10618",
+      "dwmc": "重庆交通大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqjtu.edu.cn/"
+    },
+    {
+      "dwdm": "10631",
+      "dwmc": "重庆医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cqmu.edu.cn/"
+    },
+    {
+      "dwdm": "10635",
+      "dwmc": "西南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swu.edu.cn/"
+    },
+    {
+      "dwdm": "92011",
+      "dwmc": "陆军军医大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tmmu.edu.cn/"
+    },
+    {
+      "dwdm": "11799",
+      "dwmc": "重庆工商大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ctbu.edu.cn/"
+    },
+    {
+      "dwdm": "92036",
+      "dwmc": "联勤保障部队工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lqbzddx.edu.cn/"
+    }
+  ]
+}
+

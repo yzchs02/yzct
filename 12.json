@@ -1,0 +1,201 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10055",
+      "dwmc": "南开大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nankai.edu.cn/"
+    },
+    {
+      "dwdm": "10056",
+      "dwmc": "天津大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tju.edu.cn/"
+    },
+    {
+      "dwdm": "10057",
+      "dwmc": "天津科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tust.edu.cn/"
+    },
+    {
+      "dwdm": "10058",
+      "dwmc": "天津工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjpu.edu.cn/"
+    },
+    {
+      "dwdm": "10059",
+      "dwmc": "中国民航大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cauc.edu.cn/"
+    },
+    {
+      "dwdm": "10060",
+      "dwmc": "天津理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjut.edu.cn/"
+    },
+    {
+      "dwdm": "10061",
+      "dwmc": "天津农学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjau.edu.cn/"
+    },
+    {
+      "dwdm": "10062",
+      "dwmc": "天津医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tmu.edu.cn/"
+    },
+    {
+      "dwdm": "10063",
+      "dwmc": "天津中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjutcm.edu.cn/"
+    },
+    {
+      "dwdm": "10065",
+      "dwmc": "天津师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjnu.edu.cn/"
+    },
+    {
+      "dwdm": "10066",
+      "dwmc": "天津职业技术师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tute.edu.cn/"
+    },
+    {
+      "dwdm": "10068",
+      "dwmc": "天津外国语大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjfsu.edu.cn/"
+    },
+    {
+      "dwdm": "10069",
+      "dwmc": "天津商业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjcu.edu.cn/"
+    },
+    {
+      "dwdm": "10070",
+      "dwmc": "天津财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjufe.edu.cn/"
+    },
+    {
+      "dwdm": "10071",
+      "dwmc": "天津体育学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjus.edu.cn/"
+    },
+    {
+      "dwdm": "10072",
+      "dwmc": "天津音乐学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjcm.edu.cn/"
+    },
+    {
+      "dwdm": "10073",
+      "dwmc": "天津美术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tjarts.edu.cn/"
+    },
+    {
+      "dwdm": "10792",
+      "dwmc": "天津城建大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tcu.edu.cn/"
+    },
+    {
+      "dwdm": "12105",
+      "dwmc": "天津中德应用技术大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tcuas.edu.cn/"
+    },
+    {
+      "dwdm": "82804",
+      "dwmc": "核工业理化工程研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "http://www.rhgy.com.cn/"
+    },
+    {
+      "dwdm": "83245",
+      "dwmc": "中国航天科工集团公司第三研究院(8357所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.casic3.com.cn/"
+    },
+    {
+      "dwdm": "83246",
+      "dwmc": "中国航天科工集团第三研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.casic3.com.cn/"
+    },
+    {
+      "dwdm": "86211",
+      "dwmc": "中国舰船研究院(天津航海仪器研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "85305",
+      "dwmc": "国家海洋技术中心",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.notc.gov.cn/"
+    },
+    {
+      "dwdm": "83578",
+      "dwmc": "第八三五八研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.8358.com.cn/"
+    },
+    {
+      "dwdm": "92018",
+      "dwmc": "海军勤务学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hjqwxy.edu.cn/"
+    },
+    {
+      "dwdm": "92037",
+      "dwmc": "武警指挥学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wjzhxy.edu.cn/"
+    },
+    {
+      "dwdm": "92042",
+      "dwmc": "武警后勤学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wjhyxy.edu.cn/"
+    }
+  ]
+}

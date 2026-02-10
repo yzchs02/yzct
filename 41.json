@@ -1,0 +1,209 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10078",
+      "dwmc": "华北水利水电大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ncwu.edu.cn/"
+    },
+    {
+      "dwdm": "10459",
+      "dwmc": "郑州大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zju.edu.cn/"
+    },
+    {
+      "dwdm": "10460",
+      "dwmc": "河南理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hpu.edu.cn/"
+    },
+    {
+      "dwdm": "10462",
+      "dwmc": "郑州轻工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zzuli.edu.cn/"
+    },
+    {
+      "dwdm": "10463",
+      "dwmc": "河南工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.haut.edu.cn/"
+    },
+    {
+      "dwdm": "10464",
+      "dwmc": "河南科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.haust.edu.cn/"
+    },
+    {
+      "dwdm": "10465",
+      "dwmc": "中原工学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zut.edu.cn/"
+    },
+    {
+      "dwdm": "10466",
+      "dwmc": "河南农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.henau.edu.cn/"
+    },
+    {
+      "dwdm": "10467",
+      "dwmc": "河南科技学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hist.edu.cn/"
+    },
+    {
+      "dwdm": "10471",
+      "dwmc": "河南中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hactcm.edu.cn/"
+    },
+    {
+      "dwdm": "10472",
+      "dwmc": "河南医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hnmu.edu.cn/"
+    },
+    {
+      "dwdm": "10475",
+      "dwmc": "河南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.henu.edu.cn/"
+    },
+    {
+      "dwdm": "10476",
+      "dwmc": "河南师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.henannu.edu.cn/"
+    },
+    {
+      "dwdm": "10477",
+      "dwmc": "信阳师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xynu.edu.cn/"
+    },
+    {
+      "dwdm": "10479",
+      "dwmc": "安阳师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.aynu.edu.cn/"
+    },
+    {
+      "dwdm": "10481",
+      "dwmc": "南阳师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nynu.edu.cn/"
+    },
+    {
+      "dwdm": "10482",
+      "dwmc": "洛阳师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lynu.edu.cn/"
+    },
+    {
+      "dwdm": "10484",
+      "dwmc": "河南财经政法大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.huel.edu.cn/"
+    },
+    {
+      "dwdm": "10485",
+      "dwmc": "郑州航空工业管理学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zua.edu.cn/"
+    },
+    {
+      "dwdm": "10919",
+      "dwmc": "平顶山学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.pdsu.edu.cn/"
+    },
+    {
+      "dwdm": "11765",
+      "dwmc": "河南城建学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hncj.edu.cn/"
+    },
+    {
+      "dwdm": "82606",
+      "dwmc": "中钢集团洛阳耐火材料研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lirrc.com.cn/"
+    },
+    {
+      "dwdm": "82708",
+      "dwmc": "机械科学研究总院(郑州机械研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cam.com.cn/"
+    },
+    {
+      "dwdm": "82907",
+      "dwmc": "中国航空研究院(014中心)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "82908",
+      "dwmc": "中国航空研究院(613所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.caiac.com.cn/"
+    },
+    {
+      "dwdm": "83708",
+      "dwmc": "郑州烟草研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ztri.com.cn/"
+    },
+    {
+      "dwdm": "86213",
+      "dwmc": "中国舰船研究院(郑州机电工程研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "86214",
+      "dwmc": "中国舰船研究院(洛阳船舶材料研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.maric.com.cn/"
+    },
+    {
+      "dwdm": "92034",
+      "dwmc": "网络空间部队信息工程大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ieu.edu.cn/"
+    }
+  ]
+}
+

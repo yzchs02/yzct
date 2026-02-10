@@ -1,0 +1,153 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10384",
+      "dwmc": "厦门大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xmu.edu.cn/"
+    },
+    {
+      "dwdm": "10385",
+      "dwmc": "华侨大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hqu.edu.cn/"
+    },
+    {
+      "dwdm": "10386",
+      "dwmc": "福州大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fzu.edu.cn/"
+    },
+    {
+      "dwdm": "10388",
+      "dwmc": "福建理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fjut.edu.cn/"
+    },
+    {
+      "dwdm": "10389",
+      "dwmc": "福建农林大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fafu.edu.cn/"
+    },
+    {
+      "dwdm": "10390",
+      "dwmc": "集美大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jmu.edu.cn/"
+    },
+    {
+      "dwdm": "10392",
+      "dwmc": "福建医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fjmu.edu.cn/"
+    },
+    {
+      "dwdm": "10393",
+      "dwmc": "福建中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fjtcm.edu.cn/"
+    },
+    {
+      "dwdm": "10394",
+      "dwmc": "福建师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fjnu.edu.cn/"
+    },
+    {
+      "dwdm": "10395",
+      "dwmc": "闽江学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.mju.edu.cn/"
+    },
+    {
+      "dwdm": "10397",
+      "dwmc": "武夷学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wuyiu.edu.cn/"
+    },
+    {
+      "dwdm": "10398",
+      "dwmc": "宁德师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ndsf.cn/"
+    },
+    {
+      "dwdm": "10399",
+      "dwmc": "泉州师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qztc.edu.cn/"
+    },
+    {
+      "dwdm": "10402",
+      "dwmc": "闽南师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.mnnu.edu.cn/"
+    },
+    {
+      "dwdm": "11062",
+      "dwmc": "厦门理工学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xmut.edu.cn/"
+    },
+    {
+      "dwdm": "11311",
+      "dwmc": "三明学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.smu.edu.cn/"
+    },
+    {
+      "dwdm": "11312",
+      "dwmc": "龙岩学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lyun.edu.cn/"
+    },
+    {
+      "dwdm": "11498",
+      "dwmc": "莆田学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ptu.edu.cn/"
+    },
+    {
+      "dwdm": "13763",
+      "dwmc": "福建江夏学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fjjxu.edu.cn/"
+    },
+    {
+      "dwdm": "80403",
+      "dwmc": "厦门国家会计学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xnai.edu.cn/"
+    },
+    {
+      "dwdm": "85303",
+      "dwmc": "自然资源部第三海洋研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.trois-oceans.org.cn/"
+    }
+  ]
+}
+

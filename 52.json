@@ -1,0 +1,97 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10657",
+      "dwmc": "贵州大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gzu.edu.cn/"
+    },
+    {
+      "dwdm": "10660",
+      "dwmc": "贵州医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gmc.edu.cn/"
+    },
+    {
+      "dwdm": "10661",
+      "dwmc": "遵义医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zmu.edu.cn/"
+    },
+    {
+      "dwdm": "10662",
+      "dwmc": "贵州中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gzy.edu.cn/"
+    },
+    {
+      "dwdm": "10663",
+      "dwmc": "贵州师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gznu.edu.cn/"
+    },
+    {
+      "dwdm": "10664",
+      "dwmc": "遵义师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zync.edu.cn/"
+    },
+    {
+      "dwdm": "10665",
+      "dwmc": "铜仁学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tru.edu.cn/"
+    },
+    {
+      "dwdm": "10670",
+      "dwmc": "黔南民族师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qnsy.edu.cn/"
+    },
+    {
+      "dwdm": "10671",
+      "dwmc": "贵州财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gufe.edu.cn/"
+    },
+    {
+      "dwdm": "10672",
+      "dwmc": "贵州民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gzmu.edu.cn/"
+    },
+    {
+      "dwdm": "10976",
+      "dwmc": "贵阳学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gyu.edu.cn/"
+    },
+    {
+      "dwdm": "14223",
+      "dwmc": "贵州师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gznc.edu.cn/"
+    },
+    {
+      "dwdm": "83286",
+      "dwmc": "中国航天科工集团第十研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.casic10.com.cn/"
+    }
+  ]
+}
+

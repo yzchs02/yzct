@@ -1,0 +1,293 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10422",
+      "dwmc": "山东大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdu.edu.cn/"
+    },
+    {
+      "dwdm": "10423",
+      "dwmc": "中国海洋大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ouc.edu.cn/"
+    },
+    {
+      "dwdm": "10425",
+      "dwmc": "中国石油大学(华东)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.upc.edu.cn/"
+    },
+    {
+      "dwdm": "10426",
+      "dwmc": "青岛科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qust.edu.cn/"
+    },
+    {
+      "dwdm": "10427",
+      "dwmc": "济南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ujn.edu.cn/"
+    },
+    {
+      "dwdm": "10430",
+      "dwmc": "山东建筑大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdjzu.edu.cn/"
+    },
+    {
+      "dwdm": "10431",
+      "dwmc": "齐鲁工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qlu.edu.cn/"
+    },
+    {
+      "dwdm": "10433",
+      "dwmc": "山东理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdut.edu.cn/"
+    },
+    {
+      "dwdm": "10435",
+      "dwmc": "青岛农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qau.edu.cn/"
+    },
+    {
+      "dwdm": "10438",
+      "dwmc": "山东第二医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdermu.edu.cn/"
+    },
+    {
+      "dwdm": "10439",
+      "dwmc": "山东第一医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdfmu.edu.cn/"
+    },
+    {
+      "dwdm": "10441",
+      "dwmc": "山东中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdutcm.edu.cn/"
+    },
+    {
+      "dwdm": "10443",
+      "dwmc": "济宁医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jnmc.edu.cn/"
+    },
+    {
+      "dwdm": "10445",
+      "dwmc": "山东师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdnu.edu.cn/"
+    },
+    {
+      "dwdm": "10447",
+      "dwmc": "聊城大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lcu.edu.cn/"
+    },
+    {
+      "dwdm": "10448",
+      "dwmc": "德州学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.dzu.edu.cn/"
+    },
+    {
+      "dwdm": "10449",
+      "dwmc": "山东航空学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdau.edu.cn/"
+    },
+    {
+      "dwdm": "10452",
+      "dwmc": "临沂大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lyu.edu.cn/"
+    },
+    {
+      "dwdm": "10453",
+      "dwmc": "泰山学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tsu.edu.cn/"
+    },
+    {
+      "dwdm": "10456",
+      "dwmc": "山东财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sufe.edu.cn/"
+    },
+    {
+      "dwdm": "10458",
+      "dwmc": "山东艺术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdca.edu.cn/"
+    },
+    {
+      "dwdm": "10904",
+      "dwmc": "枣庄学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.uzz.edu.cn/"
+    },
+    {
+      "dwdm": "10908",
+      "dwmc": "山东工艺美术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdada.edu.cn/"
+    },
+    {
+      "dwdm": "11066",
+      "dwmc": "烟台大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ytu.edu.cn/"
+    },
+    {
+      "dwdm": "11067",
+      "dwmc": "潍坊学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wfu.edu.cn/"
+    },
+    {
+      "dwdm": "11510",
+      "dwmc": "山东交通学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdjtu.edu.cn/"
+    },
+    {
+      "dwdm": "14100",
+      "dwmc": "山东政法学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdupsl.edu.cn/"
+    },
+    {
+      "dwdm": "83115",
+      "dwmc": "中国兵器科学研究院(山东非金属材料研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nimte.ac.cn/"
+    },
+    {
+      "dwdm": "85301",
+      "dwmc": "自然资源部第一海洋研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fio.org.cn/"
+    },
+    {
+      "dwdm": "92015",
+      "dwmc": "海军潜艇学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hjqtc.edu.cn/"
+    },
+    {
+      "dwdm": "92016",
+      "dwmc": "海军航空大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hjhkdx.edu.cn/"
+    },
+    {
+      "dwdm": "10424",
+      "dwmc": "山东科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdust.edu.cn/"
+    },
+    {
+      "dwdm": "10429",
+      "dwmc": "青岛理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qut.edu.cn/"
+    },
+    {
+      "dwdm": "10434",
+      "dwmc": "山东农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdau.edu.cn/"
+    },
+    {
+      "dwdm": "10440",
+      "dwmc": "滨州医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.bzmc.edu.cn/"
+    },
+    {
+      "dwdm": "10446",
+      "dwmc": "曲阜师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qfnu.edu.cn/"
+    },
+    {
+      "dwdm": "10451",
+      "dwmc": "鲁东大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ldu.edu.cn/"
+    },
+    {
+      "dwdm": "10457",
+      "dwmc": "山东体育学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdpei.edu.cn/"
+    },
+    {
+      "dwdm": "11065",
+      "dwmc": "青岛大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qdu.edu.cn/"
+    },
+    {
+      "dwdm": "11688",
+      "dwmc": "山东工商学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sdtbu.edu.cn/"
+    },
+    {
+      "dwdm": "89637",
+      "dwmc": "中共山东省委党校",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sddx.gov.cn/"
+    }
+  ]
+}
+

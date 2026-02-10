@@ -1,0 +1,124 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10108",
+      "dwmc": "山西大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxu.edu.cn/"
+    },
+    {
+      "dwdm": "10109",
+      "dwmc": "太原科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tust.edu.cn/"
+    },
+    {
+      "dwdm": "10110",
+      "dwmc": "中北大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nuc.edu.cn/"
+    },
+    {
+      "dwdm": "10112",
+      "dwmc": "太原理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www-tyut.edu.cn/"
+    },
+    {
+      "dwdm": "10113",
+      "dwmc": "山西农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxau.edu.cn/"
+    },
+    {
+      "dwdm": "10114",
+      "dwmc": "山西医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxmu.edu.cn/"
+    },
+    {
+      "dwdm": "10117",
+      "dwmc": "长治医学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.czmc.edu.cn/"
+    },
+    {
+      "dwdm": "10118",
+      "dwmc": "山西师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxnu.edu.cn/"
+    },
+    {
+      "dwdm": "10119",
+      "dwmc": "太原师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tynu.edu.cn/"
+    },
+    {
+      "dwdm": "10120",
+      "dwmc": "山西大同大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxdtdx.edu.cn/"
+    },
+    {
+      "dwdm": "10123",
+      "dwmc": "运城学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ycu.edu.cn/"
+    },
+    {
+      "dwdm": "10125",
+      "dwmc": "山西财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxufe.edu.cn/"
+    },
+    {
+      "dwdm": "83106",
+      "dwmc": "中国兵器科学研究院(北方自动控制技术研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nordauto.com.cn/"
+    },
+    {
+      "dwdm": "83704",
+      "dwmc": "中国日用化学工业研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ridci.cn/"
+    },
+    {
+      "dwdm": "10809",
+      "dwmc": "山西中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxtcm.edu.cn/"
+    },
+    {
+      "dwdm": "82808",
+      "dwmc": "中国辐射防护研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cirp.org.cn/"
+    },
+    {
+      "dwdm": "87401",
+      "dwmc": "山西省中医药研究院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sxzyy研究院.com.cn/"
+    }
+  ]
+}

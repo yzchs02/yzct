@@ -1,0 +1,125 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10730",
+      "dwmc": "兰州大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lzu.edu.cn/"
+    },
+    {
+      "dwdm": "10731",
+      "dwmc": "兰州理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lut.edu.cn/"
+    },
+    {
+      "dwdm": "10735",
+      "dwmc": "甘肃中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gszy.edu.cn/"
+    },
+    {
+      "dwdm": "10736",
+      "dwmc": "西北师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.nwnu.edu.cn/"
+    },
+    {
+      "dwdm": "10737",
+      "dwmc": "兰州城市学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lzcu.edu.cn/"
+    },
+    {
+      "dwdm": "10739",
+      "dwmc": "天水师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.tsnu.edu.cn/"
+    },
+    {
+      "dwdm": "10740",
+      "dwmc": "河西学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hxu.edu.cn/"
+    },
+    {
+      "dwdm": "10741",
+      "dwmc": "兰州财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lzufe.edu.cn/"
+    },
+    {
+      "dwdm": "11406",
+      "dwmc": "甘肃政法大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gsupl.edu.cn/"
+    },
+    {
+      "dwdm": "83271",
+      "dwmc": "中国空间技术研究院(510所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.cast510.com/"
+    },
+    {
+      "dwdm": "85403",
+      "dwmc": "中国地震局兰州地震研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lzi.neeq.com.cn/"
+    },
+    {
+      "dwdm": "10732",
+      "dwmc": "兰州交通大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lzjtu.edu.cn/"
+    },
+    {
+      "dwdm": "10733",
+      "dwmc": "甘肃农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gsau.edu.cn/"
+    },
+    {
+      "dwdm": "10738",
+      "dwmc": "陇东学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ldxy.edu.cn/"
+    },
+    {
+      "dwdm": "10742",
+      "dwmc": "西北民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xbmu.edu.cn/"
+    },
+    {
+      "dwdm": "83505",
+      "dwmc": "天华化工机械及自动化研究设计院有限公司",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.thcm.com.cn/"
+    },
+    {
+      "dwdm": "84507",
+      "dwmc": "兰州生物制品研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lzsbp.com/"
+    }
+  ]
+}
+

@@ -1,0 +1,257 @@
+﻿{
+"rad": "",
+"dms": [
+{
+"dwdm": "10335",
+"dwmc": "浙江大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zju.edu.cn/"
+},
+{
+"dwdm": "10336",
+"dwmc": "杭州电子科技大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.hdu.edu.cn/"
+},
+{
+"dwdm": "10337",
+"dwmc": "浙江工业大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjut.edu.cn/"
+},
+{
+"dwdm": "10338",
+"dwmc": "浙江理工大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zstu.edu.cn/"
+},
+{
+"dwdm": "10340",
+"dwmc": "浙江海洋大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjou.edu.cn/"
+},
+{
+"dwdm": "10341",
+"dwmc": "浙江农林大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zafu.edu.cn/"
+},
+{
+"dwdm": "10343",
+"dwmc": "温州医科大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.wmu.edu.cn/"
+},
+{
+"dwdm": "10344",
+"dwmc": "浙江中医药大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zcmu.edu.cn/"
+},
+{
+"dwdm": "10345",
+"dwmc": "浙江师范大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjnu.edu.cn/"
+},
+{
+"dwdm": "10346",
+"dwmc": "杭州师范大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.hznu.edu.cn/"
+},
+{
+"dwdm": "10347",
+"dwmc": "湖州师范学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.hutc.zj.cn/"
+},
+{
+"dwdm": "10349",
+"dwmc": "绍兴文理学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.usx.edu.cn/"
+},
+{
+"dwdm": "10350",
+"dwmc": "台州学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.tzc.edu.cn/"
+},
+{
+"dwdm": "10351",
+"dwmc": "温州大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.wzu.edu.cn/"
+},
+{
+"dwdm": "10352",
+"dwmc": "丽水学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.lsu.edu.cn/"
+},
+{
+"dwdm": "10353",
+"dwmc": "浙江工商大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjsu.edu.cn/"
+},
+{
+"dwdm": "10354",
+"dwmc": "嘉兴大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjxu.edu.cn/"
+},
+{
+"dwdm": "10355",
+"dwmc": "中国美术学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.caa.edu.cn/"
+},
+{
+"dwdm": "10356",
+"dwmc": "中国计量大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.cjlu.edu.cn/"
+},
+{
+"dwdm": "10876",
+"dwmc": "浙江万里学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zwu.edu.cn/"
+},
+{
+"dwdm": "11057",
+"dwmc": "浙江科技大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zust.edu.cn/"
+},
+{
+"dwdm": "11058",
+"dwmc": "宁波工程学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.nbut.edu.cn/"
+},
+{
+"dwdm": "11482",
+"dwmc": "浙江财经大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zufe.edu.cn/"
+},
+{
+"dwdm": "11483",
+"dwmc": "浙江警察学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjjcxy.cn/"
+},
+{
+"dwdm": "11488",
+"dwmc": "衢州学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.qzu.edu.cn/"
+},
+{
+"dwdm": "11646",
+"dwmc": "宁波大学",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.nbu.edu.cn/"
+},
+{
+"dwdm": "11647",
+"dwmc": "浙江传媒学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.cuz.edu.cn/"
+},
+{
+"dwdm": "11842",
+"dwmc": "浙江树人学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjsru.edu.cn/"
+},
+{
+"dwdm": "13021",
+"dwmc": "浙大城市学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zucc.edu.cn/"
+},
+{
+"dwdm": "13022",
+"dwmc": "浙大宁波理工学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.nit.zju.edu.cn/"
+},
+{
+"dwdm": "13023",
+"dwmc": "杭州医学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.hmc.edu.cn/"
+},
+{
+"dwdm": "14275",
+"dwmc": "浙江外国语学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zisu.edu.cn/"
+},
+{
+"dwdm": "14535",
+"dwmc": "浙江音乐学院",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjcm.edu.cn/"
+},
+{
+"dwdm": "85302",
+"dwmc": "自然资源部第二海洋研究所",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.sio.org.cn/"
+},
+{
+"dwdm": "86204",
+"dwmc": "中国舰船研究院 (杭州应用声学研究所)",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.maric.com.cn/"
+},
+{
+"dwdm": "89633",
+"dwmc": "中共浙江省委党校",
+"cxfs": "sch",
+"kg2": "1",
+"customLink": "https://www.zjdx.gov.cn/"
+}
+]
+}

@@ -1,0 +1,132 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10673",
+      "dwmc": "云南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynu.edu.cn/"
+    },
+    {
+      "dwdm": "10674",
+      "dwmc": "昆明理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.kust.edu.cn/"
+    },
+    {
+      "dwdm": "10676",
+      "dwmc": "云南农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynau.edu.cn/"
+    },
+    {
+      "dwdm": "10677",
+      "dwmc": "西南林业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.swfu.edu.cn/"
+    },
+    {
+      "dwdm": "10678",
+      "dwmc": "昆明医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.kmmu.edu.cn/"
+    },
+    {
+      "dwdm": "10679",
+      "dwmc": "大理大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.dali.edu.cn/"
+    },
+    {
+      "dwdm": "10680",
+      "dwmc": "云南中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynutcm.edu.cn/"
+    },
+    {
+      "dwdm": "10681",
+      "dwmc": "云南师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynnu.edu.cn/"
+    },
+    {
+      "dwdm": "10684",
+      "dwmc": "曲靖师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.qjnu.edu.cn/"
+    },
+    {
+      "dwdm": "10687",
+      "dwmc": "红河学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.uoh.edu.cn/"
+    },
+    {
+      "dwdm": "10689",
+      "dwmc": "云南财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynufe.edu.cn/"
+    },
+    {
+      "dwdm": "10690",
+      "dwmc": "云南艺术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynart.edu.cn/"
+    },
+    {
+      "dwdm": "10691",
+      "dwmc": "云南民族大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynni.edu.cn/"
+    },
+    {
+      "dwdm": "11390",
+      "dwmc": "玉溪师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.yxnu.edu.cn/"
+    },
+    {
+      "dwdm": "11392",
+      "dwmc": "云南警官学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ynpsc.edu.cn/"
+    },
+    {
+      "dwdm": "11393",
+      "dwmc": "昆明学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.kmu.edu.cn/"
+    },
+    {
+      "dwdm": "83104",
+      "dwmc": "中国兵器科学研究院(昆明物理研究所)",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.kunmingphysics.com/"
+    },
+    {
+      "dwdm": "86401",
+      "dwmc": "昆明贵金属研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.ipm.com.cn/"
+    }
+  ]
+}
+

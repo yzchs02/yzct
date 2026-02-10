@@ -1,0 +1,265 @@
+﻿{
+  "rad": "",
+  "dms": [
+    {
+      "dwdm": "10558",
+      "dwmc": "中山大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sysu.edu.cn/"
+    },
+    {
+      "dwdm": "10559",
+      "dwmc": "暨南大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jnu.edu.cn/"
+    },
+    {
+      "dwdm": "10561",
+      "dwmc": "华南理工大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scut.edu.cn/"
+    },
+    {
+      "dwdm": "10564",
+      "dwmc": "华南农业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scau.edu.cn/"
+    },
+    {
+      "dwdm": "10566",
+      "dwmc": "广东海洋大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdou.edu.cn/"
+    },
+    {
+      "dwdm": "10571",
+      "dwmc": "广东医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdmu.edu.cn/"
+    },
+    {
+      "dwdm": "10572",
+      "dwmc": "广州中医药大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gzucm.edu.cn/"
+    },
+    {
+      "dwdm": "10573",
+      "dwmc": "广东药科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdpu.edu.cn/"
+    },
+    {
+      "dwdm": "10576",
+      "dwmc": "韶关学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sgu.edu.cn/"
+    },
+    {
+      "dwdm": "10577",
+      "dwmc": "惠州学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hzu.edu.cn/"
+    },
+    {
+      "dwdm": "10578",
+      "dwmc": "韩山师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.hstc.edu.cn/"
+    },
+    {
+      "dwdm": "10579",
+      "dwmc": "岭南师范学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.lingnan.edu.cn/"
+    },
+    {
+      "dwdm": "10580",
+      "dwmc": "肇庆学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zqu.edu.cn/"
+    },
+    {
+      "dwdm": "10582",
+      "dwmc": "嘉应学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.jyu.edu.cn/"
+    },
+    {
+      "dwdm": "10585",
+      "dwmc": "广州体育学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gipe.edu.cn/"
+    },
+    {
+      "dwdm": "10586",
+      "dwmc": "广州美术学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gzarts.edu.cn/"
+    },
+    {
+      "dwdm": "10587",
+      "dwmc": "星海音乐学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.xhcom.edu.cn/"
+    },
+    {
+      "dwdm": "10588",
+      "dwmc": "广东技术师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gpnu.edu.cn/"
+    },
+    {
+      "dwdm": "10590",
+      "dwmc": "深圳大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.szu.edu.cn/"
+    },
+    {
+      "dwdm": "10592",
+      "dwmc": "广东财经大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdufe.edu.cn/"
+    },
+    {
+      "dwdm": "11078",
+      "dwmc": "广州大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gzhu.edu.cn/"
+    },
+    {
+      "dwdm": "11347",
+      "dwmc": "仲恺农业工程学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.zhku.edu.cn/"
+    },
+    {
+      "dwdm": "11349",
+      "dwmc": "五邑大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.wyu.edu.cn/"
+    },
+    {
+      "dwdm": "11540",
+      "dwmc": "广东金融学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gduf.edu.cn/"
+    },
+    {
+      "dwdm": "11656",
+      "dwmc": "广东石油化工学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdupt.edu.cn/"
+    },
+    {
+      "dwdm": "11819",
+      "dwmc": "东莞理工学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.dgut.edu.cn/"
+    },
+    {
+      "dwdm": "11845",
+      "dwmc": "广东工业大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdut.edu.cn/"
+    },
+    {
+      "dwdm": "11846",
+      "dwmc": "广东外语外贸大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdufs.edu.cn/"
+    },
+    {
+      "dwdm": "11847",
+      "dwmc": "佛山大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.fosu.edu.cn/"
+    },
+    {
+      "dwdm": "12121",
+      "dwmc": "南方医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.smu.edu.cn/"
+    },
+    {
+      "dwdm": "14325",
+      "dwmc": "南方科技大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.sustech.edu.cn/"
+    },
+    {
+      "dwdm": "10560",
+      "dwmc": "汕头大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.stu.edu.cn/"
+    },
+    {
+      "dwdm": "10570",
+      "dwmc": "广州医科大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gzhmu.edu.cn/"
+    },
+    {
+      "dwdm": "10574",
+      "dwmc": "华南师范大学",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.scnu.edu.cn/"
+    },
+    {
+      "dwdm": "88901",
+      "dwmc": "广东省社会科学院",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gdass.gov.cn/"
+    },
+    {
+      "dwdm": "88911",
+      "dwmc": "广东省心血管病研究所",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gd-cvd.org/"
+    },
+    {
+      "dwdm": "86406",
+      "dwmc": "中共广东省委党校",
+      "cxfs": "sch",
+      "kg2": "1",
+      "customLink": "https://www.gddx.gov.cn/"
+    }
+  ]
+}
+
